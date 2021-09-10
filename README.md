@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @techkop3
 - 👀 I’m interested in open source
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on oipen source
+- 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me techkop3@gmail.com
 
 <!---
